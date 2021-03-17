@@ -1,0 +1,36 @@
+{
+  "name": "@kailash-js/react-native-android-keyboard-adjust",
+  "description": "A way to adjust android keyboard soft input style for react-native.",
+  "version": "1.0.0",
+  "keywords": [
+      "react-native-component",
+      "react-component",
+      "react-native",        
+      "android",
+      "keyboard",
+      "react-native keyboard"           
+    ],
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/kailash-js/react-native-android-keyboard-adjust.git"     
+  },
+  "bugs": {
+    "url": "https://github.com/kailash-js/react-native-android-keyboard-adjust/issues"
+  },
+  "author": {
+    "name": "Long Cao",
+    "email": "ltcaosj@gmail.com"
+  },
+  "homepage": "https://kailashjs.dev/docs/react-native-android-keyboard-adjust/",
+  "main": "lib/index.js",    
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+      
+  },
+  "dependencies": {
+     
+  }
+}
