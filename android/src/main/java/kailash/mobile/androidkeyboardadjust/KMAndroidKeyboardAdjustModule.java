@@ -12,7 +12,7 @@ public class KMAndroidKeyboardAdjustModule extends ReactContextBaseJavaModule {
 
     private final ReactApplicationContext reactContext;
 
-    public LKAndroidKeyboardAdjustModule(ReactApplicationContext reactContext) {
+    public KMAndroidKeyboardAdjustModule(ReactApplicationContext reactContext) {
         super(reactContext);
         this.reactContext = reactContext;
     }
